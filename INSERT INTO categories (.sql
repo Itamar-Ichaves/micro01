@@ -8,8 +8,8 @@ INSERT INTO categories (
   )
 VALUES (
     'id:bigint',
-    'test',
-    'teste',
+    'title:varchar',
+    'url:varchar',
     'description:varchar',
     'created_at:timestamp',
     'updated_at:timestamp'
